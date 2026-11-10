@@ -1,0 +1,15 @@
+C:\Users\APRENDIZ\Documents\SENA\Programa1\src\Programa1\bin\Debug\net9.0\Programa1.Estadistica.exe
+C:\Users\APRENDIZ\Documents\SENA\Programa1\src\Programa1\bin\Debug\net9.0\Programa1.Estadistica.deps.json
+C:\Users\APRENDIZ\Documents\SENA\Programa1\src\Programa1\bin\Debug\net9.0\Programa1.Estadistica.runtimeconfig.json
+C:\Users\APRENDIZ\Documents\SENA\Programa1\src\Programa1\bin\Debug\net9.0\Programa1.Estadistica.dll
+C:\Users\APRENDIZ\Documents\SENA\Programa1\src\Programa1\bin\Debug\net9.0\Programa1.Estadistica.pdb
+C:\Users\APRENDIZ\Documents\SENA\Programa1\src\Programa1\obj\Debug\net9.0\Programa1.Estadistica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APRENDIZ\Documents\SENA\Programa1\src\Programa1\obj\Debug\net9.0\Programa1.Estadistica.AssemblyInfoInputs.cache
+C:\Users\APRENDIZ\Documents\SENA\Programa1\src\Programa1\obj\Debug\net9.0\Programa1.Estadistica.AssemblyInfo.cs
+C:\Users\APRENDIZ\Documents\SENA\Programa1\src\Programa1\obj\Debug\net9.0\Programa1.Estadistica.csproj.CoreCompileInputs.cache
+C:\Users\APRENDIZ\Documents\SENA\Programa1\src\Programa1\obj\Debug\net9.0\Programa1.Estadistica.sourcelink.json
+C:\Users\APRENDIZ\Documents\SENA\Programa1\src\Programa1\obj\Debug\net9.0\Programa1.Estadistica.dll
+C:\Users\APRENDIZ\Documents\SENA\Programa1\src\Programa1\obj\Debug\net9.0\refint\Programa1.Estadistica.dll
+C:\Users\APRENDIZ\Documents\SENA\Programa1\src\Programa1\obj\Debug\net9.0\Programa1.Estadistica.pdb
+C:\Users\APRENDIZ\Documents\SENA\Programa1\src\Programa1\obj\Debug\net9.0\Programa1.Estadistica.genruntimeconfig.cache
+C:\Users\APRENDIZ\Documents\SENA\Programa1\src\Programa1\obj\Debug\net9.0\ref\Programa1.Estadistica.dll
