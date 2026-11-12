@@ -14,16 +14,14 @@ Casos: `casos_prueba.md` · Evidencias: carpeta `evidencias/` (una por ejecució
 | Ejecuciones manuales | 8 (todas con el resultado esperado) |
 | Casos que pasaron al final | 17 de 17 |
 | Defectos encontrados en pruebas | 0 |
-| Tiempo de la fase (min) | *(escribe aquí el tiempo final de PSP Tracker)* |
+| Tiempo de la fase (min) | 37 |
 
 ## 2. Ejecuciones
 
 | N.º | Archivo de evidencia | Qué se ejecutó | Aprobados | Fallidos | Observación |
 |---|---|---|---|---|---|
 | 1 | `ejecucion1_2026-11-12_0027.txt` | `dotnet test test` (pruebas automatizadas) | 25 | 0 | Duración total de la serie: 345 ms. Las tildes salen dañadas en el archivo por la codificación de la consola; no afecta al programa. |
-| 2 | `ejecucion2_2026-11-12_HHmm.txt` | Pruebas manuales M-1 a M-8 con `dotnet run` | 8 | 0 | Todas las salidas y códigos de salida coinciden con lo esperado. En la ejecución sin argumento, la ruta llega por la tubería y no se muestra el salto de línea después de `Ruta del archivo:`. |
-
-Cambia `HHmm` por la hora real del nombre de tu archivo de evidencia.
+| 2 | `ejecucion2_2026-11-12_0029.txt` | Pruebas manuales M-1 a M-8 con `dotnet run` | 8 | 0 | Todas las salidas y códigos de salida coinciden con lo esperado. En la ejecución sin argumento, la ruta llega por la tubería y no se muestra el salto de línea después de `Ruta del archivo:`. |
 
 ## 3. Resultados por caso
 
@@ -60,5 +58,5 @@ Total de defectos de la fase: **0**.
 | Pregunta | Respuesta |
 |---|---|
 | ¿Se cumplieron todos los criterios de aceptación de los REQ-F y REQ-NF? | Sí: los 17 casos pasaron y cubren los requisitos de la matriz de trazabilidad del diseño. |
-| ¿Qué fase inyectó más defectos? | En esta fase no se encontraron defectos. *(Completa con los datos de tu Defect Log de Compilación.)* |
+| ¿Qué fase inyectó más defectos? | Ninguna: no se registraron defectos ni en compilación ni en pruebas (0 defectos en todo el proyecto). |
 | ¿Qué harías distinto en el Programa 2? | *(Borrador, edítalo con tus palabras)* Comparar el tiempo real de cada fase contra el planeado para ajustar la estimación, y diseñar los casos de prueba antes de escribir el código. |
